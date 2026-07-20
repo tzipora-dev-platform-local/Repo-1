@@ -29,13 +29,7 @@
   "author": "Akash Kurdekar <npm@kurdekar.com> (http://untilfalse.com/)",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "~1.13.2",
-    "cookie-parser": "~1.3.5",
-    "ejs": "^2.4.2",
-    "express": "~4.13.1",
-    "express-session": "^1.13.0",
-    "log4js": "^0.6.36",
-    "morgan": "~1.6.1",
+    "lodash": "4.17.21",
     "pg-promise": "^4.4.6",
     "serve-favicon": "~2.3.0"
   },
