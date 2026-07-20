@@ -30,7 +30,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4.17.21",
-    "pg-promise": "^4.4.6",
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
